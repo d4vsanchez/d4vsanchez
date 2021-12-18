@@ -10,7 +10,7 @@
 
 ##### About me!
 
-- 🏢 I'm currently working at **Gorilla Logic**.
+- 🏢 I'm currently working in **Recharge**.
 - 🛠️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.py`, `.html`, `.css`, `.scss`.
 - ⚛️ I'm mostly active in the React Community.
 - 🤝 I love to share knowledge and Open Source software helps me with that.
