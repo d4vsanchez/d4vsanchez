@@ -4,7 +4,6 @@
 
 ##### Links
 
-- 🖥 [Visit my personal website](https://davsanchez.com)
 - 📝 [Visit my Dev.to Blog](https://dev.to/d4vsanchez)
 - 🐦 [Visit my Twitter profile](https://twitter.com/d4vsanchez)
 
